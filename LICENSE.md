@@ -1,4 +1,4 @@
-# 
+# PayPal Zettle provides a complete POS system for small businesses: Accept payments, manage sales, and grow your business.
 
 
 
